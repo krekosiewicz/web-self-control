@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kacper/Desktop/notatki kwiecien 2024",
+		"/etc/hosts",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/LearnerList.tsx",
+		"/home/kacper/n",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/layout/Menu.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/Show/TeamMembers/LearnerTeamMembers.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/Show/TeamMembers/TeamMembers.tsx",
+		"/home/kacper/Desktop/rap",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Home.tsx",
+		"/home/kacper/Desktop/release note",
+		"/home/kacper/Desktop/graph.svg",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Activities/components/AddGoal.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Activities/ActivitiesList.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/User/UserList.module.scss",
+		"/home/kacper/Desktop/dump slack 3",
+		"/home/kacper/Desktop/Dump slack sync notes",
+		"/home/kacper/Desktop/Dump slack Shane, Kasia, Luke",
+		"/home/kacper/Desktop/dump slack Dominik",
+		"/home/kacper/Desktop/dump slack Shane",
+		"/home/kacper/Desktop/dump slack Krzysztof Jaworski",
+		"/home/kacper/Desktop/dump slack Kasia Pietrzak",
+		"/home/kacper/Desktop/dump slack 2",
+		"/home/kacper/Desktop/dump slack 1",
+		"/home/kacper/WebstormProjects/AdminUI2/src/components/users/UserList.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/node_modules/svg-parser/dist/svg-parser.umd.js",
+		"/home/kacper/Downloads/wave-purple-start.svg",
+		"/home/kacper/Desktop/wave-purple",
+		"/home/kacper/WebstormProjects/self-control/manifest.json",
+		"/home/kacper/WebstormProjects/self-control/popup.js",
+		"/home/kacper/WebstormProjects/self-control/popup.html",
+		"/home/kacper/WebstormProjects/self-control/background.js",
+		"/home/kacper/WebstormProjects/self-control/self-control.py",
+		"/home/kacper/WebstormProjects/self-control/block-list.txt",
+		"/home/kacper/.zshrc.dump",
+		"/home/kacper/.zshrc",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/Show/Report/ProgressReportFilterBar.tsx",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/Show/Activities/activityReport/TimeChart.tsx",
+		"/home/kacper/Downloads/wave-purple-ending.svg",
+		"/home/kacper/.bashrc",
+		"/home/kacper/Downloads/WebStorm-2023.2.1/WebStorm-232.9559.58/Install-Linux-tar.txt",
+		"/home/kacper/Desktop/TODO-2024",
+		"/home/kacper/Music/ngrok",
+		"/home/kacper/.ssh/id_rsa_dev.pub",
+		"/home/kacper/.ssh/id_rsa.pub",
+		"/home/kacper/WebstormProjects/AdminUI2/src/pages/Learner/Show/Report/ActivityUnit.tsx",
+		"/home/kacper/WebstormProjects/wordpress-local/docker-compose.yml",
+		"/home/kacper/Downloads/waves-1.svg",
+		"/.bashrc",
+		"/home/kacper/Downloads/waves-end3.svg",
+		"/home/kacper/Downloads/waves-end2.svg",
+		"/home/kacper/Downloads/waves-end.svg",
+		"/home/kacper/Downloads/waves-start.svg",
+		"/home/kacper/Downloads/waves-2.svg",
+		"/home/kacper/Downloads/waves-3.svg",
+		"/home/kacper/Downloads/waves-4.svg",
+		"/home/kacper/Desktop/RC3",
+		"/home/kacper/Desktop/RC2",
+		"/home/kacper/Desktop/RC1",
+		"/home/kacper/Desktop/RC",
+		"/home/kacper/Desktop/Dump slack Adam WIlczak",
+		"/home/kacper/.zshrc.pre-oh-my-zsh"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "popup.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
