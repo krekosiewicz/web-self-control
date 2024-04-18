@@ -3,7 +3,11 @@
   "name": "Page Bucket Organizer",
   "version": "1.0",
   "description": "Organize pages into different buckets.",
-  "permissions": ["storage", "activeTab"],
+  "permissions": [
+    "storage",     // Allows storage access to save bucket data.
+    "activeTab",   // Grants temporary permissions to access the current active tab when the user interacts with the extension.
+    "tabs"         // Required for accessing tabs and their URLs across the browser.
+  ],
   "background": {
     "service_worker": "background.js"
   },

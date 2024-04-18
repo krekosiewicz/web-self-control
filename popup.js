@@ -1,16 +1,23 @@
+// Get the current active tab and then send a message to the background page
+function sendMessageToBackground(bucketName) {
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+        const tab = tabs[0];
+        chrome.runtime.sendMessage({
+            action: "addToBucket",
+            bucket: bucketName,
+            url: tab.url  // Sending the URL directly from here
+        });
+    });
+}
+
 document.getElementById('addBucketOne').addEventListener('click', function() {
-  chrome.runtime.sendMessage({action: "addToBucket", bucket: 1});
+    sendMessageToBackground("Bucket One");
 });
 
-// Repeat for other buttons/buckets
+document.getElementById('addBucketTwo').addEventListener('click', function() {
+    sendMessageToBackground("Bucket Two");
+});
 
-
-// In your background.js or options.js
-// function addToBucket(url, bucketNumber) {
-//   // Example: Load, update, and save the bucket list
-//   chrome.storage.local.get({buckets: {}}, function(data) {
-//     if (!data.buckets[bucketNumber]) data.buckets[bucketNumber] = [];
-//     data.buckets[bucketNumber].push(url);
-//     chrome.storage.local.set({buckets: data.buckets});
-//   });
-// }
+document.getElementById('addBucketThree').addEventListener('click', function() {
+    sendMessageToBackground("Bucket Three");
+});
